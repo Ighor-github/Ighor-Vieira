@@ -1,9 +1,16 @@
 # Ighor Vieira
 
-Olá, eu sou Ighor Vieira 🖐️
-Sobre mim
-Estudante de Análise e desenvolvimento de sistema da anhembi morumbi 📖
-Idiomas diários
-Java
+# 👋 Olá! Eu sou o João da Silva
 
- 
+💻 Desenvolvedor Back-end apaixonado por tecnologia e inovação ☕
+
+## 🚀 Tecnologias que uso no dia a dia
+- Java | Spring Boot
+- MySQL | PostgreSQL
+
+## 📫 Como me encontrar:
+- [LinkedIn](https://www.linkedin.com/in/ighor-vieira-baccarin/)
+
+---
+
+
