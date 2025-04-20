@@ -1,6 +1,6 @@
 # Ighor Vieira
 
-# 👋 Olá! Eu sou o João da Silva
+# 👋 Olá! Eu sou o Ighor Vieira
 
 💻 Desenvolvedor Back-end apaixonado por tecnologia e inovação ☕
 
