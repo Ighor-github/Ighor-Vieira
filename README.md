@@ -2,10 +2,11 @@
 
 # 👋 Olá! Eu sou o Ighor Vieira
 
-💻 Desenvolvedor Back-end apaixonado por tecnologia e inovação ☕
+💻 Sou estudante de analise e desenvolvimento de sistema com foco em Back-end apaixonado por tecnologia e inovação ☕
 
 ## 🚀 Tecnologias que uso no dia a dia
 - Java | Spring Boot
+- Spring Data JPA
 - MySQL | PostgreSQL
 
 ## 📫 Como me encontrar:
